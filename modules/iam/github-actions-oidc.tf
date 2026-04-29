@@ -1,4 +1,4 @@
-# ─── GitHub Actions OIDC Federation ─────────────────────────────────────────
+## ─── GitHub Actions OIDC Federation ─────────────────────────────────────────
 #
 # Allows GitHub Actions workflows in your-github-username/zen-pharma-frontend and
 # your-github-username/zen-pharma-backend to assume an IAM role without any long-lived
